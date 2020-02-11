@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Commons"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Simulink DOM"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Simulink MDL Parser"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Stateflow DOM"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
