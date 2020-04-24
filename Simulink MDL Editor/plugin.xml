@@ -9,7 +9,7 @@
             extensions="mdl"
             icon="icons/sample.gif"
             contributorClass="org.eclipse.ui.texteditor.BasicTextEditorActionContributor"
-            class="simulinkeditor.editors.SimulinkEditor"
+            class="com.fware.csdt.simulink.mdl.editor.editors.SimulinkEditor"
             id="simulinkeditor.editors.SimulinkEditor">
       </editor>
    </extension>

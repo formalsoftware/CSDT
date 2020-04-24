@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: SimulinkEditor
 Bundle-SymbolicName: SimulinkEditor; singleton:=true
 Bundle-Version: 1.0.0.qualifier
-Bundle-Activator: simulinkeditor.Activator
+Bundle-Activator: com.fware.csdt.simulink.mdl.editor.Activator
 Bundle-Vendor: Gustavo Nunes
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime,
